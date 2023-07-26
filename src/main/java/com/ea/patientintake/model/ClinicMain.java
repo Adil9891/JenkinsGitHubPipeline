@@ -10,7 +10,7 @@ import com.ea.patientintake.service.ClinicCalendar;
 import com.ea.patientintake.util.BMICalculator;
 
 public class ClinicMain {
-  // ceci est un commentaire
+  // ceci est un commentaire  2
 
   private static ClinicCalendar calendar;
 
